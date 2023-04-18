@@ -1,4 +1,4 @@
-[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)
+![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)
 <h1 align="center">Hi 👋, I'm Soham Samantaray</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer from India</h3>
 
@@ -13,13 +13,13 @@
 
 - 🤝 I’m available for freelancing **.**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/sohamsamantaray](https://www.behance.net/sohamsamantaray)
+- 👨‍💻 All of my projects are available at [Behance-Profile](https://www.behance.net/sohamsamantaray)
 
 - 💬 Ask me about **Figma, HTML, CSS**
 
 - 📫 How to reach me **samsoham02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tkq1yyvZdXR1uOly5nvuUcE5rfPoOWv4/view?usp=sharing](https://drive.google.com/file/d/1tkq1yyvZdXR1uOly5nvuUcE5rfPoOWv4/view?usp=sharing)
+- 📄 Know about my experiences [Resume_Soham](https://drive.google.com/file/d/1tkq1yyvZdXR1uOly5nvuUcE5rfPoOWv4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
