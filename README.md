@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **samsoham02@gmail.com**
 
-- 📄 Know about my experiences [Resume_Soham](https://drive.google.com/file/d/1tkq1yyvZdXR1uOly5nvuUcE5rfPoOWv4/view?usp=sharing)
+- 📄 Know about my experiences [Resume_Soham](https://drive.google.com/file/d/130-vwnvJ9jD2z49sOZhuJKOXf3EYeEpD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
