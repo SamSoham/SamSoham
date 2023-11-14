@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/ssoham414" target="blank"><img src="https://img.shields.io/twitter/follow/ssoham414?logo=twitter&style=for-the-badge" alt="ssoham414" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Web3**
 
 - 🤝 I’m available for freelancing **.**
 
-- 👨‍💻 All of my projects are available at [Behance-Profile](https://www.behance.net/sohamsamantaray)
+- 👨‍💻 All of my UI/UX projects are available at [Dribble-Profile](https://dribbble.com/SamSoham)
 
-- 💬 Ask me about **Figma, HTML, CSS**
+- 💬 Ask me about **MERN, Figma, HTML, CSS**
 
 - 📫 How to reach me **samsoham02@gmail.com**
 
-- 📄 Know about my experiences [Resume_Soham](https://drive.google.com/file/d/130-vwnvJ9jD2z49sOZhuJKOXf3EYeEpD/view?usp=sharing)
+- 📄 Know about my experiences [Resume_Soham](https://drive.google.com/file/d/1-4TrMFHDwS-CeEBiXeGbYoyloeq1kUy6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
